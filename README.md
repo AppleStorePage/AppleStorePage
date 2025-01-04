@@ -131,7 +131,7 @@ project/
 ## 애플 웹사이트 반응형 After
 <img src='./md/mdImg/after2.gif'>
 
-## 애플스토어 사이트
+## 애플스토어 사이트 💻
 ```
  https://applestorepage.github.io/AppleStorePage/
 ```
