@@ -7,7 +7,7 @@
 |이규성|김민정|신효진|권소정|
 |------|-----|------|------|
 |FE|FE|FE|FE|
-|[GitHub](https://github.com/2gyusung)|[GitHub](https://github.com/2gyusung)|[GitHub](https://github.com/2gyusung)|[GitHub](https://github.com/2gyusung)|
+|[GitHub](https://github.com/2gyusung)|[GitHub](https://github.com/097120K)|[GitHub](https://github.com/2gyusung)|[GitHub](https://github.com/2gyusung)|
 |테스트1|테스트2|테스트3|테스트3|
 
 ## 이규성
